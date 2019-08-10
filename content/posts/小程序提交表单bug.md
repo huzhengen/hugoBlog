@@ -1,5 +1,5 @@
 ---
-title: "小程序打开的时候获取app.globalData为空"
+title: "小程序提交表单bug"
 date: 2018-11-22T13:46:29+08:00
 draft: false
 ---
