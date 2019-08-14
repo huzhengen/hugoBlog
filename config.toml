@@ -1,4 +1,4 @@
 baseURL = "https://huzhengen.github.io/"
 languageCode = "zh-cn"
-title = "blog"
+title = "Blog"
 theme = "ananke"
